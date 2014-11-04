@@ -1,0 +1,11 @@
+~..===========================================================..~
+
+-Run the Server first.The IP address of the Server is assumed to be your local machine and the port number is pre-defined as 6700.
+
+-Once the Server is running, run a client and give the client a name when asked to. The client then enters the room and can broadcast messages.
+
+-Create as many clients as needed.
+
+Note: A client upon exiting crashes the server because the server tries to read from it or broadcast to it even though it is gone.
+
+~..===========================================================..~
